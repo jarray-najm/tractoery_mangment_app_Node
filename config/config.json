@@ -1,0 +1,28 @@
+
+
+{
+  "development": {
+    "username": "gooitdb_owner",
+    "password": "xKJ6oz3SMIWu",
+    "database": "tractorydb",
+    "host": "ep-tiny-river-a2k3f3w5.eu-central-1.aws.neon.tech",
+    "dialect": "postgres",
+    "logging": true
+  },
+  "test": {
+    "username": "gooitdb_owner",
+    "password": "xKJ6oz3SMIWu",
+    "database": "tractorydb",
+    "host": "ep-tiny-river-a2k3f3w5.eu-central-1.aws.neon.tech",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "gooitdb_owner",
+    "password": "xKJ6oz3SMIWu",
+    "database": "tractorydb",
+    "host": "ep-tiny-river-a2k3f3w5.eu-central-1.aws.neon.tech",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
